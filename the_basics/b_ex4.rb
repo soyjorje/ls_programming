@@ -5,4 +5,4 @@ puts year[2]
 puts year[3]
 puts year[4]
 puts ""
-puts year[0..4]
+puts year[0..4] # This was added to show a simpler way of calling all values in the array in one line.
