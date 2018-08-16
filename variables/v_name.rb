@@ -1,3 +1,3 @@
 puts "Hello, what\'s your name?"
 name = gets.chomp
-puts "Nice to meet you " + name + "!"
+puts "Nice to meet you #{name}!"
