@@ -1,0 +1,3 @@
+1. code will print "FALSE"
+2. code will print "Did you get it right?" because operation is True
+3. code will print "Alright now!" because this is the first True operation the code came across.
